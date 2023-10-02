@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767420297626",
+    "project_id": "notes-pro-caef2",
+    "storage_bucket": "notes-pro-caef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767420297626:android:605e96ae0468694492ca23",
+        "android_client_info": {
+          "package_name": "com.example.notespro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5Tfa5EBnUsukIcmzwj92BSctY7e6CNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
